@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I am Jasman Singh
 
-<!--
-**JasmanCodes/JasmanCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Jasman Singh!
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE student @ UPES Dehradun 
+💻Specializing in Cloud Computing and Virtualization
+🏀 Representing UPES in Basketball
+💻 Currently building DSA skills and working on hardware-software integrated projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 🛠️ Tools & Technologies
+
+-💻 **Languages:** Java, Python, C  
+- 🗄️ **Databases:** MySQL, MongoDB  
+- 🧠 **Concepts:** OOPs, DSA, Networking  
+- 🖥️ **Others:** Git, GitHub, Raspberry Pi, Linux, VS Code
+- 
+
+## 📚 Platforms
+
+- [📘 LeetCode Profile](https://leetcode.com/profile/)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/jasman-singh-82a09021b)
+
+
+> “Code. Learn. Build. Repeat.”
+
+
+
